@@ -6,7 +6,7 @@
      width="3.6in" height="3.6in"
      viewBox="0 0 1080 1080">
   <path id="Selection"
-        fill="none" stroke="black" stroke-width="1"
+        fill="#ff7c1b" stroke="none" stroke-width="1"
         d="M 316.00,514.00
            C 299.56,510.91 297.27,512.97 281.00,513.00
              273.86,513.01 257.91,516.04 251.00,518.22
