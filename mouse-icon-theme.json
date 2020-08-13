@@ -84,6 +84,14 @@
         "_folder_open": {
             "iconPath": "./files/folder_open.svg"
         },
+
+        "_git_folder_open": {
+            "iconPath": "./files/git_folder_open.svg"
+        },
+
+        "_git_folder": {
+            "iconPath": "./files/git_folder.svg"
+        },
     },
 
     "fileExtentions": {
@@ -112,6 +120,14 @@
     "folder": "_folder",
 
     "folderExpanded": "_folder_open",
+
+    "folderNames": {
+        ".git": "_git_folder"
+    },
+
+    "folderNamesExpanded": {
+        ".git": "_git_folder_open"
+    },
 
     "file": "_file"
 
