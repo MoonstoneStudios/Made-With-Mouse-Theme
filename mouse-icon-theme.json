@@ -103,7 +103,7 @@
         "dll": "_dll",
         "dsc": "_dsc",
         "h": "_h",
-        "html": "_h",
+        "html": "_html",
         "jar": "_jar",
         "java": "_java",
         "js": "_js",
@@ -129,6 +129,25 @@
         ".git": "_git_folder_open"
     },
 
-    "file": "_file"
+    "file": "_file",
+
+    "languageIds": {
+        "7z": "_7z",
+        "c": "_c",
+        "cpp": "_cpp",
+        "cs": "_cs",
+        "css": "_css",
+        "dll": "_dll",
+        "dsc": "_dsc",
+        "h": "_h",
+        "html": "_html",
+        "jar": "_jar",
+        "java": "_java",
+        "js": "_js",
+        "json": "_json",
+        "jsx": "_jsx",
+        "svg": "_svg",
+        "txt": "_txt"
+    }
 
 }
