@@ -7,21 +7,21 @@
 	],
 	"version": "0.0.1",
 	"publisher": "Moonstone",
-	"icon": "logos/logo.png",
+	"icon": "./logo/logo.png",
 	"license": "MIT",
 	"engines": {
 		"vscode": "*"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Breabcrumb/wobbly-icon-theme"
+		"url": "https://github.com/MoonstoneStudios/Made-With-Mouse-Theme"
 	},
 	"contributes": {
 		"iconThemes": [
 			{
-				"id": "wobbly-icon-theme",
-				"label": "Wobbly Icon Theme",
-				"path": "./file icons/wobbly-icon-theme.json"
+				"id": "made-with-mouse-theme",
+				"label": "Made With Mouse Theme",
+				"path": "./mouse-icon-theme.json"
 			}
 		]
 	}

@@ -1,0 +1,118 @@
+{
+    "iconDefinitions": {
+
+        //Extentions
+
+        "_file": {
+            "iconPath": "./files/file.svg"
+        },
+
+        "_7z": {
+            "iconPath": "./file-extentions/7z.svg"
+        },
+
+        "_c": {
+            "iconPath": "./file-extentions/c.svg"
+        },
+
+        "_cpp": {
+            "iconPath": "./file-extentions/cpp.svg"
+        },
+
+        "_cs": {
+            "iconPath": "./file-extentions/cs.svg"
+        },
+
+        "_css": {
+            "iconPath": "./file-extentions/css.svg"
+        },
+
+        "_dll": {
+            "iconPath": "./file-extentions/dll.svg"
+        },
+
+        "_dsc": {
+            "iconPath": "./file-extentions/dsc.svg"
+        },
+
+        "_h": {
+            "iconPath": "./file-extentions/h.svg"
+        },
+
+        "_html": {
+            "iconPath": "./file-extentions/html.svg"
+        },
+
+        "_jar": {
+            "iconPath": "./file-extentions/jar.svg"
+        },
+
+        "_java": {
+            "iconPath": "./file-extentions/java.svg"
+        },
+
+        "_js": {
+            "iconPath": "./file-extentions/js.svg"
+        },
+
+        "_json": {
+            "iconPath": "./file-extentions/json.svg"
+        },
+
+        "_jsx": {
+            "iconPath": "./file-extentions/jsx.svg"
+        },
+
+        "_svg": {
+            "iconPath": "./file-extentions/svg.svg"
+        },
+
+        "_txt": {
+            "iconPath": "./file-extentions/txt.svg"
+        },
+
+        // File names:
+        "_readme": {
+            "iconPath": "./files/README.svg"
+        },
+
+        //Other:
+        "_folder": {
+            "iconPath": "./files/folder.svg"
+        },
+
+        "_folder_open": {
+            "iconPath": "./files/folder_open.svg"
+        },
+    },
+
+    "fileExtentions": {
+        "7z": "_7z",
+        "c": "_c",
+        "cpp": "_cpp",
+        "cs": "_cs",
+        "css": "_css",
+        "dll": "_dll",
+        "dsc": "_dsc",
+        "h": "_h",
+        "html": "_h",
+        "jar": "_jar",
+        "java": "_java",
+        "js": "_js",
+        "json": "_json",
+        "jsx": "_jsx",
+        "svg": "_svg",
+        "txt": "_txt"
+    },
+
+    "fileNames": {
+        "README.md": "_readme"
+    },
+
+    "folder": "_folder",
+
+    "folderExpanded": "_folder_open",
+
+    "file": "_file"
+
+}
