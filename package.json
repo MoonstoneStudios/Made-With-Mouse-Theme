@@ -6,8 +6,8 @@
 		"Themes"
 	],
 	"version": "0.0.1",
-	"publisher": "Moonstone",
-	"icon": "./logo/logo.png",
+	"publisher": "MoonstoneStudios",
+	"icon": "logo/logo.png",
 	"license": "MIT",
 	"engines": {
 		"vscode": "*"
