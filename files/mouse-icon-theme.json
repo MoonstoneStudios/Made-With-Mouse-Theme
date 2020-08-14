@@ -1,11 +1,35 @@
 {
     "iconDefinitions": {
-
-        //Extentions
-
+        //other
         "_file": {
             "iconPath": "file.svg"
         },
+
+        "_folder": {
+            "iconPath": "folder.svg"
+        },
+
+        "_folder_open": {
+            "iconPath": "folder_open.svg"
+        },
+
+        "_git_folder": {
+            "iconPath": "git_folder.svg"
+        },
+
+        "_git_folder_open": {
+            "iconPath": "git_folder_open.svg"
+        },
+
+        "_src_folder": {
+            "iconPath": "src_folder.svg"
+        },
+
+        "_src_folder_open": {
+            "iconPath": "src_folder_open.svg"
+        },
+
+        //file extentions
 
         "_7z": {
             "iconPath": "7z.svg"
@@ -21,10 +45,6 @@
 
         "_cs": {
             "iconPath": "cs.svg"
-        },
-
-        "_css": {
-            "iconPath": "css.svg"
         },
 
         "_dll": {
@@ -59,8 +79,16 @@
             "iconPath": "json.svg"
         },
 
+        "_owo": {
+            "iconPath": "owo.svg"
+        },
+
         "_jsx": {
             "iconPath": "jsx.svg"
+        },
+
+        "_readme": {
+            "iconPath": "README.svg"
         },
 
         "_svg": {
@@ -71,69 +99,28 @@
             "iconPath": "txt.svg"
         },
 
-        // File names:
-        "_readme": {
-            "iconPath": "README.svg"
+        "_yml": {
+            "iconPath": "yml.svg"
         },
 
-        //Other:
-        "_folder": {
-            "iconPath": "folder.svg"
-        },
-
-        "_folder_open": {
-            "iconPath": "folder_open.svg"
-        },
-
-        "_git_folder_open": {
-            "iconPath": "git_folder_open.svg"
-        },
-
-        "_git_folder": {
-            "iconPath": "git_folder.svg"
-        },
     },
 
-    "fileExtentions": {
-        "7z": "_7z",
-        "c": "_c",
-        "cpp": "_cpp",
-        "cs": "_cs",
-        "css": "_css",
-        "dll": "_dll",
-        "dsc": "_dsc",
-        "h": "_h",
-        "html": "_html",
-        "jar": "_jar",
-        "java": "_java",
-        "js": "_js",
-        "json": "_json",
-        "jsx": "_jsx",
-        "svg": "_svg",
-        "txt": "_txt"
-    },
-
-    "fileNames": {
-        "README.md": "_readme"
-    },
-
+    "file": "_file",
     "folder": "_folder",
-
     "folderExpanded": "_folder_open",
 
     "folderNames": {
         ".git": "_git_folder",
         "src": "_src_folder"
     },
-
+    
     "folderNamesExpanded": {
         ".git": "_git_folder_open",
-        "src": "_src_folder_open"
+        "src": "_git_folder_open"
     },
 
-    "file": "_file",
+    "fileExtensions": {
 
-    "languageIds": {
         "7z": "_7z",
         "c": "_c",
         "cpp": "_cpp",
@@ -148,8 +135,41 @@
         "js": "_js",
         "json": "_json",
         "jsx": "_jsx",
+        "owo": "_owo",
         "svg": "_svg",
-        "txt": "_txt"
-    }
+        "txt": "_txt",
+        "yml": "_yml"
 
+    },
+
+    "languageIds": {
+
+        "7z": "_7z",
+        "c": "_c",
+        "cpp": "_cpp",
+        "cs": "_cs",
+        "css": "_css",
+        "dll": "_dll",
+        "dsc": "_dsc",
+        "h": "_h",
+        "html": "_html",
+        "jar": "_jar",
+        "java": "_java",
+        "js": "_js",
+        "json": "_json",
+        "jsx": "_jsx",
+        "owo": "_owo",
+        "svg": "_svg",
+        "txt": "_txt",
+        "yml": "_yml"
+
+    },
+
+    "fileNames": {
+
+        "README.md": "_readme",
+        "readme.md": "_readme",
+        "README.txt": "_readme",
+        "readme.txt": "_readme"
+    }
 }
