@@ -5,7 +5,7 @@
 	"categories": [
 		"Themes"
 	],
-	"version": "0.0.1",
+	"version": "0.0.6",
 	"publisher": "MoonstoneStudios",
 	"icon": "logo/logo.png",
 	"license": "MIT",
@@ -21,8 +21,13 @@
 			{
 				"id": "made-with-mouse-theme",
 				"label": "Made With Mouse Theme",
-				"path": "./mouse-icon-theme.json"
+				"path": "./files/mouse-icon-theme.json"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "e28cb679-e822-435a-826f-7d00d952f7b4",
+		"publisherDisplayName": "MoonstoneStudios",
+		"publisherId": "2228271a-5545-4488-a5f1-5d18de539adf"
 	}
 }

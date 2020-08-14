@@ -4,93 +4,93 @@
         //Extentions
 
         "_file": {
-            "iconPath": "./files/file.svg"
+            "iconPath": "file.svg"
         },
 
         "_7z": {
-            "iconPath": "./file-extentions/7z.svg"
+            "iconPath": "7z.svg"
         },
 
         "_c": {
-            "iconPath": "./file-extentions/c.svg"
+            "iconPath": "c.svg"
         },
 
         "_cpp": {
-            "iconPath": "./file-extentions/cpp.svg"
+            "iconPath": "cpp.svg"
         },
 
         "_cs": {
-            "iconPath": "./file-extentions/cs.svg"
+            "iconPath": "cs.svg"
         },
 
         "_css": {
-            "iconPath": "./file-extentions/css.svg"
+            "iconPath": "css.svg"
         },
 
         "_dll": {
-            "iconPath": "./file-extentions/dll.svg"
+            "iconPath": "dll.svg"
         },
 
         "_dsc": {
-            "iconPath": "./file-extentions/dsc.svg"
+            "iconPath": "dsc.svg"
         },
 
         "_h": {
-            "iconPath": "./file-extentions/h.svg"
+            "iconPath": "h.svg"
         },
 
         "_html": {
-            "iconPath": "./file-extentions/html.svg"
+            "iconPath": "html.svg"
         },
 
         "_jar": {
-            "iconPath": "./file-extentions/jar.svg"
+            "iconPath": "jar.svg"
         },
 
         "_java": {
-            "iconPath": "./file-extentions/java.svg"
+            "iconPath": "java.svg"
         },
 
         "_js": {
-            "iconPath": "./file-extentions/js.svg"
+            "iconPath": "js.svg"
         },
 
         "_json": {
-            "iconPath": "./file-extentions/json.svg"
+            "iconPath": "json.svg"
         },
 
         "_jsx": {
-            "iconPath": "./file-extentions/jsx.svg"
+            "iconPath": "jsx.svg"
         },
 
         "_svg": {
-            "iconPath": "./file-extentions/svg.svg"
+            "iconPath": "svg.svg"
         },
 
         "_txt": {
-            "iconPath": "./file-extentions/txt.svg"
+            "iconPath": "txt.svg"
         },
 
         // File names:
         "_readme": {
-            "iconPath": "./files/README.svg"
+            "iconPath": "README.svg"
         },
 
         //Other:
         "_folder": {
-            "iconPath": "./files/folder.svg"
+            "iconPath": "folder.svg"
         },
 
         "_folder_open": {
-            "iconPath": "./files/folder_open.svg"
+            "iconPath": "folder_open.svg"
         },
 
         "_git_folder_open": {
-            "iconPath": "./files/git_folder_open.svg"
+            "iconPath": "git_folder_open.svg"
         },
 
         "_git_folder": {
-            "iconPath": "./files/git_folder.svg"
+            "iconPath": "git_folder.svg"
         },
     },
 
@@ -122,11 +122,13 @@
     "folderExpanded": "_folder_open",
 
     "folderNames": {
-        ".git": "_git_folder"
+        ".git": "_git_folder",
+        "src": "_src_folder"
     },
 
     "folderNamesExpanded": {
-        ".git": "_git_folder_open"
+        ".git": "_git_folder_open",
+        "src": "_src_folder_open"
     },
 
     "file": "_file",
