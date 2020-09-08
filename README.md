@@ -24,8 +24,14 @@
     <li>src folder</li>
     <li>svg</li>
     <li>txt</li>
-    <li>yml</li>
-
+    <li>png</li>
+    <li>jpeg</li>
+    <li>jpg</li>
+    <li>mp4</li>
+    <li>contributing.md</li>
+    <li>contributing.txt</li>
+    <li>bat</li>
+    <li>ico</li>
 </ul>
 
 

@@ -29,10 +29,28 @@
             "iconPath": "src_folder_open.svg"
         },
 
+        "_contributing": {
+            "iconPath": "contributing.svg"
+        },
+
+        "_readme": {
+            "iconPath": "README.svg"
+        },
+
+        //image
+
+        "_image": {
+            "iconPath": "png.svg"
+        },
+
         //file extentions
 
         "_7z": {
             "iconPath": "7z.svg"
+        },
+
+        "_bat": {
+            "iconPath": "bat.svg"
         },
 
         "_c": {
@@ -45,6 +63,10 @@
 
         "_cs": {
             "iconPath": "cs.svg"
+        },
+
+        "_css": {
+            "iconPath": "css.svg"
         },
 
         "_dll": {
@@ -79,16 +101,12 @@
             "iconPath": "json.svg"
         },
 
-        "_owo": {
-            "iconPath": "owo.svg"
-        },
-
         "_jsx": {
             "iconPath": "jsx.svg"
         },
 
-        "_readme": {
-            "iconPath": "README.svg"
+        "_owo": {
+            "iconPath": "owo.svg"
         },
 
         "_svg": {
@@ -116,12 +134,13 @@
     
     "folderNamesExpanded": {
         ".git": "_git_folder_open",
-        "src": "_git_folder_open"
+        "src": "_src_folder_open"
     },
 
     "fileExtensions": {
 
         "7z": "_7z",
+        "bat": "_bat",
         "c": "_c",
         "cpp": "_cpp",
         "cs": "_cs",
@@ -138,13 +157,19 @@
         "owo": "_owo",
         "svg": "_svg",
         "txt": "_txt",
-        "yml": "_yml"
+        "yml": "_yml",
+        "png": "_image",
+        "jpg": "_image",
+        "jpeg": "_image",
+        "mp4": "_image",
+        "ico": "_image"
 
     },
 
     "languageIds": {
 
         "7z": "_7z",
+        "bat": "_bat",
         "c": "_c",
         "cpp": "_cpp",
         "cs": "_cs",
@@ -161,8 +186,12 @@
         "owo": "_owo",
         "svg": "_svg",
         "txt": "_txt",
-        "yml": "_yml"
-
+        "yml": "_yml",
+        "png": "_image",
+        "jpg": "_image",
+        "jpeg": "_image",
+        "mp4": "_image",
+        "ico": "_image"
     },
 
     "fileNames": {
@@ -170,6 +199,10 @@
         "README.md": "_readme",
         "readme.md": "_readme",
         "README.txt": "_readme",
-        "readme.txt": "_readme"
+        "readme.txt": "_readme",
+        "contrubiting.txt": "_contributing",
+        "contrubiting.md": "_contributing",
+        "CONTRIBUTING.txt": "_contributing",
+        "ONTRIBUTING.md": "_contributing",
     }
 }
